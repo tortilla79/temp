@@ -1,0 +1,15 @@
+main {
+    display: flex;
+}
+
+div {
+    border: 2px solid black;
+}
+
+#ripetizioni button {
+    border: 2px solid blue;
+}
+
+#ripetizioni button:active {
+    border-bottom: 2px none black;
+}
